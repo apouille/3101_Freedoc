@@ -1,26 +1,53 @@
 # README
 
+## Project Title - RAILS/THE_HACKING_FREEDOC
+
 ![](https://media.giphy.com/media/9Ai5dIk8xvBm0/giphy.gif)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Holà Correctorios! Voici notre HACKING FREEDOC !
 
-Things you may want to cover:
+## Start up Project 
 
-* Ruby version
+Devenir le nouveau Doctolib ! 
 
-* System dependencies
+## How does it work ?
 
-* Configuration
+Comment runner notre magnifique application :  
 
-* Database creation
+1/ Clone the github : git clone https://github.com/apouille/3101_Freedoc  
 
-* Database initialization
+```
+git clone https://github.com/apouille/3101_Freedoc
+```
 
-* How to run the test suite
+2/ Ajoute les gems : fais un Bundle Install  
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+```
+bundle install
+```
 
-* ...
+3/ Lance les associations : rails db:migrate  
+
+```
+rails db:migrate
+```
+
+4/ Lance le fichier seed : rails db:seed  
+
+```
+rails db:seed
+```
+
+5/ Amuse-toi avec la console ! :smile:  
+
+
+#### Built with :heart: by : 
+
+Viviane de Petigny  
+Bastien Hiel  
+Gregoria Ndongozi  
+Mélanie Nguon  
+
+Bisous!
+https://github.com/apouille/3101_Freedoc/blob/master/app/models/patient.rb
