@@ -53,7 +53,7 @@ Notre application est composé de 6 modèles Doctor, Patient, Appointment, City,
 * Join_Table_Doctor_Specialty lié à Doctor et Specialty avec doctor_id et specialty_id comme attributs.
 
 
-## :heart: Built with by : 
+## :heart: Built by : 
 
 Viviane de Petigny  
 Bastien Hiel  
