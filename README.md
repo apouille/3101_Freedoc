@@ -4,7 +4,12 @@
 Holà Correctorios! Voici notre HACKING FREEDOC !
 Notre ambition ? Devenir le nouveau Doctolib ! 
 
-##  :fast-forward: How does it work ?
+<p align="center">
+  <img width="460" height="300" src="https://media.giphy.com/media/9Ai5dIk8xvBm0/giphy.gif">
+</p>
+
+
+##   :fireworks: How does it work ?
 
 Comment runner notre magnifique application :  
 
@@ -35,8 +40,6 @@ rails db:seed
 
 5/ Amuse-toi avec la console ! :smile:  
 
-
-Alors, c'est all good ? ![](https://media.giphy.com/media/9Ai5dIk8xvBm0/giphy.gif)
 
 
 ##   :ambulance: Details 
